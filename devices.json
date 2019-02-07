@@ -1,0 +1,12 @@
+[
+  {
+    "model": "HS100",
+    "manufacturer": "TP-Link",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  }
+]

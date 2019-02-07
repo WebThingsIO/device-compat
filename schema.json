@@ -1,0 +1,59 @@
+{
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "required": [
+      "model",
+      "manufacturer",
+      "type",
+      "adapters",
+      "status",
+      "note"
+    ],
+    "properties": {
+      "model": {
+        "type": "string",
+        "minLength": 1
+      },
+      "manufacturer": {
+        "type": "string",
+        "minLength": 1
+      },
+      "type": {
+        "type": "string",
+        "enum": [
+          "library",
+          "router",
+          "hub",
+          "lighting",
+          "switch",
+          "outlet",
+          "sensor",
+          "input",
+          "camera",
+          "media",
+          "other"
+        ]
+      },
+      "adapters": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "supported",
+          "untested",
+          "unsupported",
+          "unknown"
+        ]
+      },
+      "note": {
+        "type": "string"
+      }
+    }
+  }
+}
