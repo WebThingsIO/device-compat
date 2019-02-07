@@ -2,11 +2,335 @@
   {
     "model": "HS100",
     "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Plug",
     "type": "outlet",
     "adapters": [
       "tplink-adapter"
     ],
     "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "HS110",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Plug with Energy Monitoring",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "KP100",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Plug Slim Edition",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "HS103P2",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Plug Lite",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "HS107",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Plug, 2-Outlets",
+    "type": "outlet",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "HS105",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Plug Mini",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "HS300",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Power Strip",
+    "type": "outlet",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "KP200",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Power Outlet, 2-Sockets",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KP400",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Outdoor Plug",
+    "type": "outlet",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "RE270K",
+    "manufacturer": "TP-Link",
+    "description": "AC750 Wi-Fi Range Extender with Smart Plug",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "RE370K",
+    "manufacturer": "TP-Link",
+    "description": "AC1200 Wi-Fi Range Extender with Smart Plug",
+    "type": "outlet",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "LB100",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi LED Light Bulb, White",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "LB110",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Bulb, White",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "LB120",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi LED Light Bulb, Tunable White",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "LB130",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi LED Light Bulb, Multicolor",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "KB100",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi LED Light Bulb, White",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KB130",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi LED Light Bulb, Multicolor",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "LB200",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Bulb, White",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "LB230",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi LED Light Bulb, Multicolor",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KL110",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Bulb, Dimmable",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KL120",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Bulb, Tunable White",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KL130",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Bulb, Multicolor",
+    "type": "lighting",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KL430",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart LED Light Strip",
+    "type": "lighting",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "HS200",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Switch",
+    "type": "switch",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "HS210KIT",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Switch, 3-Way Kit",
+    "type": "switch",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "HS220",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Switch, Dimmer",
+    "type": "switch",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "HS230",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wi-Fi Light Switch with Voice Assistant",
+    "type": "switch",
+    "adapters": [
+      "tplink-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "KC100",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Spot",
+    "type": "camera",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "KC120",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Cam",
+    "type": "camera",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "KC200",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Cam Outdoor",
+    "type": "camera",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "KC300",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Wire-Free Camera",
+    "type": "camera",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "KD100",
+    "manufacturer": "TP-Link",
+    "description": "Kasa Smart Video Doorbell",
+    "type": "camera",
+    "adapters": [],
+    "status": "unsupported",
     "note": ""
   }
 ]
