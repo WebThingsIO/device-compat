@@ -42,7 +42,7 @@ def main():
             re.sub(r'[^a-z0-9]', '', device['model'].lower()),
         )
 
-        if key in models:
+        if key in models and device['manufacturer'] != 'Raspberry Pi':
             print('Duplicate device:', device)
             sys.exit(1)
 

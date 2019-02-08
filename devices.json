@@ -1,5 +1,68 @@
 [
   {
+    "model": "1 Model B",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi 1 Model B",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "1 Model B+",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi 1 Model B+",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "2 Model B",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi 2 Model B",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "3 Model B",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi 3 Model B",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "3 Model B+",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi 3 Model B+",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "3 Model A+",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi 3 Model A+",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "Zero W",
+    "manufacturer": "Raspberry Pi",
+    "description": "Raspberry Pi Zero W",
+    "type": "hub",
+    "adapters": [],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "OLED55B6P",
     "manufacturer": "LG",
     "description": "B6 OLED 4K HDR Smart TV - 55\" Class",
