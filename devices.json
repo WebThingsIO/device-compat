@@ -1,5 +1,27 @@
 [
   {
+    "model": "YLDP05YL",
+    "manufacturer": "Yeelight",
+    "description": "Yeelight Smart LED Bulb (Tunable White)",
+    "type": "lighting",
+    "adapters": [
+      "yeelight-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "YLDP06YL",
+    "manufacturer": "Yeelight",
+    "description": "Yeelight Smart LED Bulb (Color)",
+    "type": "lighting",
+    "adapters": [
+      "yeelight-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "F7C030fc",
     "manufacturer": "Belkin",
     "description": "Wemo Smart Light Switch",
