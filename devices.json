@@ -1,5 +1,60 @@
 [
   {
+    "model": "T1011121",
+    "manufacturer": "Eufy",
+    "description": "Lumos Smart Bulb - White",
+    "type": "outlet",
+    "adapters": [
+      "eufy-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "T1012121",
+    "manufacturer": "Eufy",
+    "description": "Lumos Smart Bulb - Tunable White",
+    "type": "outlet",
+    "adapters": [
+      "eufy-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "T1013121",
+    "manufacturer": "Eufy",
+    "description": "Lumos Smart Bulb - White & Color",
+    "type": "outlet",
+    "adapters": [
+      "eufy-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "T1201121",
+    "manufacturer": "Eufy",
+    "description": "Smart Plug",
+    "type": "outlet",
+    "adapters": [
+      "eufy-adapter"
+    ],
+    "status": "untested",
+    "note": "Energy monitoring unsupported"
+  },
+  {
+    "model": "T1202121",
+    "manufacturer": "Eufy",
+    "description": "Smart Plug Mini",
+    "type": "outlet",
+    "adapters": [
+      "eufy-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "HS100",
     "manufacturer": "TP-Link",
     "description": "Kasa Smart Wi-Fi Plug",
