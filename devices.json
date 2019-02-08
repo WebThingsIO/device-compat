@@ -1,5 +1,146 @@
 [
   {
+    "model": "LHA19E26UC10P",
+    "manufacturer": "LIFX",
+    "description": "A19+",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": "Night vision unsupported"
+  },
+  {
+    "model": "LHB30E26UC10P",
+    "manufacturer": "LIFX",
+    "description": "BR30+",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": "Night vision unsupported"
+  },
+  {
+    "model": "LHB30E26UC10",
+    "manufacturer": "LIFX",
+    "description": "BR30",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "L3GU10C04CA",
+    "manufacturer": "LIFX",
+    "description": "GU10 Downlight",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "LHA19E26UC10",
+    "manufacturer": "LIFX",
+    "description": "A19",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "L3A19MC08E26",
+    "manufacturer": "LIFX",
+    "description": "Mini Color",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "L3A19MTW08E26",
+    "manufacturer": "LIFX",
+    "description": "Mini Day & Dusk",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "L3A19MW06E26",
+    "manufacturer": "LIFX",
+    "description": "Mini White",
+    "type": "lighting",
+    "adapters": [
+      "homekit-adapter",
+      "lifx-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "LZHC2M4INUC07",
+    "manufacturer": "LIFX",
+    "description": "Z Strip",
+    "type": "lighting",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "L3TILEKITUS",
+    "manufacturer": "LIFX",
+    "description": "Tile",
+    "type": "lighting",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "L3TILEKITIN",
+    "manufacturer": "LIFX",
+    "description": "Tile",
+    "type": "lighting",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "L3TILEKITCA",
+    "manufacturer": "LIFX",
+    "description": "Tile",
+    "type": "lighting",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
+    "model": "L3BEAMKITUS",
+    "manufacturer": "LIFX",
+    "description": "Beam",
+    "type": "lighting",
+    "adapters": [],
+    "status": "unsupported",
+    "note": ""
+  },
+  {
     "model": "R2",
     "manufacturer": "Foscam",
     "description": "Foscam Home Security Camera, R2 Full HD 1080P WiFi IP Camera with Real-time 1080P Video at 25FPS, Pan Tilt Digital Zoom, Optional Cloud Service Available, White",
