@@ -1,5 +1,49 @@
 [
   {
+    "model": "F7C030fc",
+    "manufacturer": "Belkin",
+    "description": "Wemo Smart Light Switch",
+    "type": "switch",
+    "adapters": [
+      "wemo-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "F7C059fc",
+    "manufacturer": "Belkin",
+    "description": "Wemo WiFi Smart Dimmer",
+    "type": "switch",
+    "adapters": [
+      "wemo-adapter"
+    ],
+    "status": "untested",
+    "note": ""
+  },
+  {
+    "model": "F7C029fc",
+    "manufacturer": "Belkin",
+    "description": "Wemo Insight Smart Plug",
+    "type": "outlet",
+    "adapters": [
+      "wemo-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "F7C063",
+    "manufacturer": "Belkin",
+    "description": "Wemo Mini Smart Plug",
+    "type": "outlet",
+    "adapters": [
+      "wemo-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "LHA19E26UC10P",
     "manufacturer": "LIFX",
     "description": "A19+",
