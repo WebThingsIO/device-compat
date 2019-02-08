@@ -1,5 +1,27 @@
 [
   {
+    "model": "4400X",
+    "manufacturer": "Roku",
+    "description": "Roku 4",
+    "type": "media",
+    "adapters": [
+      "roku-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "40H4",
+    "manufacturer": "Hisense",
+    "description": "FHD Hisense Roku TV 2017 model",
+    "type": "media",
+    "adapters": [
+      "roku-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "webthing-node",
     "manufacturer": "Mozilla IoT",
     "description": "WebThing library for Node.js",
