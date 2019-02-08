@@ -1,5 +1,16 @@
 [
   {
+    "model": "Flic",
+    "manufacturer": "Flic",
+    "description": "Flic Smart Button",
+    "type": "input",
+    "adapters": [
+      "flic-button-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "YLDP05YL",
     "manufacturer": "Yeelight",
     "description": "Yeelight Smart LED Bulb (Tunable White)",
