@@ -1,5 +1,16 @@
 [
   {
+    "model": "OLED55B6P",
+    "manufacturer": "LG",
+    "description": "B6 OLED 4K HDR Smart TV - 55\" Class",
+    "type": "media",
+    "adapters": [
+      "lg-tv-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "Flic",
     "manufacturer": "Flic",
     "description": "Flic Smart Button",
