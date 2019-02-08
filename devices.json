@@ -1,5 +1,82 @@
 [
   {
+    "model": "webthing-node",
+    "manufacturer": "Mozilla IoT",
+    "description": "WebThing library for Node.js",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "webthing-arduino",
+    "manufacturer": "Mozilla IoT",
+    "description": "WebThing library for Arduino",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": "Actions and events are unsupported"
+  },
+  {
+    "model": "webthing-python",
+    "manufacturer": "Mozilla IoT",
+    "description": "WebThing library for Python",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "webthing-java",
+    "manufacturer": "Mozilla IoT",
+    "description": "WebThing library for Java",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "webthing-rust",
+    "manufacturer": "Mozilla IoT",
+    "description": "WebThing library for Rust",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "webthing-iotjs",
+    "manufacturer": "Philippe Coval",
+    "description": "WebThing library for IoT.js",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": "Actions and events are unsupported"
+  },
+  {
+    "model": "webthings",
+    "manufacturer": "Moddable",
+    "description": "WebThing library for Moddable SDK",
+    "type": "library",
+    "adapters": [
+      "thing-url-adapter"
+    ],
+    "status": "supported",
+    "note": "Actions and events are unsupported"
+  },
+  {
     "model": "1 Model B",
     "manufacturer": "Raspberry Pi",
     "description": "Raspberry Pi 1 Model B",
