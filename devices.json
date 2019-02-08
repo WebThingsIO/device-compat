@@ -1,9 +1,20 @@
 [
   {
+    "model": "R2",
+    "manufacturer": "Foscam",
+    "description": "Foscam Home Security Camera, R2 Full HD 1080P WiFi IP Camera with Real-time 1080P Video at 25FPS, Pan Tilt Digital Zoom, Optional Cloud Service Available, White",
+    "type": "camera",
+    "adapters": [
+      "onvif-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "T1011121",
     "manufacturer": "Eufy",
     "description": "Lumos Smart Bulb - White",
-    "type": "outlet",
+    "type": "lighting",
     "adapters": [
       "eufy-adapter"
     ],
@@ -14,7 +25,7 @@
     "model": "T1012121",
     "manufacturer": "Eufy",
     "description": "Lumos Smart Bulb - Tunable White",
-    "type": "outlet",
+    "type": "lighting",
     "adapters": [
       "eufy-adapter"
     ],
@@ -25,7 +36,7 @@
     "model": "T1013121",
     "manufacturer": "Eufy",
     "description": "Lumos Smart Bulb - White & Color",
-    "type": "outlet",
+    "type": "lighting",
     "adapters": [
       "eufy-adapter"
     ],
