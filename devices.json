@@ -1,5 +1,115 @@
 [
   {
+    "model": "IDEV0001",
+    "manufacturer": "iDevices",
+    "description": "Switch",
+    "type": "outlet",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "P1",
+    "manufacturer": "Koogeek",
+    "description": "Wi-Fi Enabled Smart Plug",
+    "type": "outlet",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "FGBHFS-101",
+    "manufacturer": "Fibaro",
+    "description": "Flood Sensor",
+    "type": "sensor",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "homebridge",
+    "manufacturer": "Nick Farina",
+    "description": "Homebridge",
+    "type": "other",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "20EAG4101",
+    "manufacturer": "Elgato",
+    "description": "Eve Energy",
+    "type": "outlet",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "20EAL9901",
+    "manufacturer": "Elgato",
+    "description": "Eve Door & Window",
+    "type": "sensor",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "20EAK9901",
+    "manufacturer": "Elgato",
+    "description": "Eve Motion",
+    "type": "sensor",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "20EAM9901",
+    "manufacturer": "Elgato",
+    "description": "Eve Room",
+    "type": "sensor",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "20EAF9901",
+    "manufacturer": "Elgato",
+    "description": "Eve Degree",
+    "type": "sensor",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "20EAU9901",
+    "manufacturer": "Elgato",
+    "description": "Eve Button",
+    "type": "input",
+    "adapters": [
+      "homekit-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
     "model": "4400X",
     "manufacturer": "Roku",
     "description": "Roku 4",
