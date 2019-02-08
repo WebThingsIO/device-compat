@@ -2,6 +2,7 @@
 
 import json
 import jsonschema
+import re
 import sys
 
 _SCHEMA = './schema.json'
@@ -9,6 +10,8 @@ _LIST = './devices.json'
 
 
 def main():
+    models = set()
+
     # Load the schema.
     with open(_SCHEMA) as f:
         schema = json.load(f)
@@ -32,6 +35,18 @@ def main():
     except jsonschema.ValidationError as e:
         print('List validation failed: {}'.format(e))
         sys.exit(1)
+
+    for device in devices:
+        key = '{} {}'.format(
+            re.sub(r'[^a-z0-9]', '', device['manufacturer'].lower()),
+            re.sub(r'[^a-z0-9]', '', device['model'].lower()),
+        )
+
+        if key in models:
+            print('Duplicate device:', device)
+            sys.exit(1)
+
+        models.add(key)
 
 
 if __name__ == '__main__':
