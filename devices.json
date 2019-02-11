@@ -660,7 +660,7 @@
     "description": "Kasa Smart Wi-Fi Outdoor Plug",
     "type": "outlet",
     "adapters": [],
-    "status": "unsupported",
+    "status": "untested",
     "note": ""
   },
   {
