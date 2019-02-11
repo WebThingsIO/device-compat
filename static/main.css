@@ -54,7 +54,11 @@ a:active {
 }
 
 .sortable {
-  cursor: default;
+  cursor: pointer;
+}
+
+.sortable:hover {
+  background-color: #305067 !important;
 }
 
 .sortable[data-sort-active="true"][data-sort-order="ascending"]::after {
