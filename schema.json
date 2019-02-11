@@ -52,8 +52,7 @@
         "enum": [
           "supported",
           "untested",
-          "unsupported",
-          "unknown"
+          "unsupported"
         ]
       },
       "note": {

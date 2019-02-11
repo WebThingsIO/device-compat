@@ -1,0 +1,100 @@
+html, body {
+  background-color: #5d9bc7;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: white;
+}
+
+#content {
+  margin: 0 auto;
+  max-width: 100rem;
+}
+
+.adapter-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.adapter-list > li {
+  white-space: nowrap;
+}
+
+#device-table {
+  border-collapse: collapse;
+}
+
+#device-table,
+#device-table > thead > tr > th,
+#device-table > tbody > tr > td {
+  border: 1px solid white;
+}
+
+#device-table > thead > tr > th,
+#device-table > tbody > tr > td {
+  padding: 0.5rem;
+  text-align: left;
+}
+
+#device-table > thead > tr > th {
+  background-color: #5288af;
+}
+
+.device-type,
+.device-status {
+  text-transform: capitalize;
+}
+
+.sortable {
+  cursor: default;
+}
+
+.sortable[data-sort-active="true"][data-sort-order="ascending"]::after {
+  content: "▲";
+  font-size: 0.8rem;
+  padding-left: 0.5rem;
+}
+
+.sortable[data-sort-active="true"][data-sort-order="descending"]::after {
+  content: "▼";
+  font-size: 0.8rem;
+  padding-left: 0.5rem;
+}
+
+.device-status.supported {
+  background-color: green;
+}
+
+.device-status.supported::before {
+  content: "✓";
+  font-weight: bold;
+  padding-right: 0.5rem;
+}
+
+.device-status.untested {
+  background-color: blue;
+}
+
+.device-status.untested::before {
+  content: "?";
+  font-weight: bold;
+  padding-right: 0.5rem;
+}
+
+.device-status.unsupported {
+  background-color: red;
+}
+
+.device-status.unsupported::before {
+  content: "𐄂";
+  font-weight: bold;
+  padding-right: 0.5rem;
+}
