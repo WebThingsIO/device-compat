@@ -659,7 +659,9 @@
     "manufacturer": "TP-Link",
     "description": "Kasa Smart Wi-Fi Outdoor Plug",
     "type": "outlet",
-    "adapters": [],
+    "adapters": [
+      "tplink-adapter"
+    ],
     "status": "untested",
     "note": ""
   },
