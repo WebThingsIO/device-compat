@@ -26,8 +26,8 @@ def main():
     try:
         with open(_LIST, 'rt') as f:
             devices = json.load(f)
-    except (IOError, OSError, ValueError):
-        print('Failed to read list file.')
+    except (IOError, OSError, ValueError) as e:
+        print('Failed to read list file: {}'.format(e))
         sys.exit(1)
 
     try:
