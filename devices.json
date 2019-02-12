@@ -905,5 +905,126 @@
     "adapters": [],
     "status": "unsupported",
     "note": ""
+  },
+  {
+    "model": "BA19",
+    "manufacturer": "Cree",
+    "description": "Cree Connected Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "E26 600, 950, 980, 1000 Lumen",
+    "manufacturer": "IKEA",
+    "description": "IKEA Tradfri Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "E12 400 Lumen",
+    "manufacturer": "IKEA",
+    "description": "IKEA Tradfri Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "GU10 400 Lumen",
+    "manufacturer": "IKEA",
+    "description": "IKEA Tradfri Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "Outlet",
+    "manufacturer": "IKEA",
+    "description": "IKEA Tradfri Wireless Control Outlet",
+    "type": "outlet",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "PAR16",
+    "manufacturer": "Philips",
+    "description": "Philips Hue Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "GU10",
+    "manufacturer": "Philips",
+    "description": "Philips Hue Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "E12",
+    "manufacturer": "Philips",
+    "description": "Philips Hue Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "BR30",
+    "manufacturer": "Philips",
+    "description": "Philips Hue Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "E26",
+    "manufacturer": "Philips",
+    "description": "Philips Hue Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
+  },
+  {
+    "model": "PAR38",
+    "manufacturer": "Philips",
+    "description": "Philips Hue Smart Bulb",
+    "type": "lighting",
+    "adapters": [
+      "zigbee-adapter"
+    ],
+    "status": "supported",
+    "note": ""
   }
 ]
