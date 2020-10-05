@@ -1,6 +1,6 @@
 window.onload = function() {
-  const deviceListUrl = 'https://raw.githubusercontent.com/mozilla-iot/device-compat/master/devices.json';
-  const addonListUrl = 'https://raw.githubusercontent.com/mozilla-iot/addon-list/master/list.json';
+  const deviceListUrl = 'https://raw.githubusercontent.com/WebThingsIO/device-compat/master/devices.json';
+  const addonListUrl = 'https://raw.githubusercontent.com/WebThingsIO/addon-list/master/list.json';
 
   const tbody = document.querySelector('tbody');
 

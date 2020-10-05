@@ -133,7 +133,7 @@
   },
   {
     "model": "webthing-node",
-    "manufacturer": "Mozilla IoT",
+    "manufacturer": "WebThingsIO",
     "description": "WebThing library for Node.js",
     "type": "library",
     "adapters": [
@@ -144,7 +144,7 @@
   },
   {
     "model": "webthing-arduino",
-    "manufacturer": "Mozilla IoT",
+    "manufacturer": "WebThingsIO",
     "description": "WebThing library for Arduino",
     "type": "library",
     "adapters": [
@@ -155,7 +155,7 @@
   },
   {
     "model": "webthing-python",
-    "manufacturer": "Mozilla IoT",
+    "manufacturer": "WebThingsIO",
     "description": "WebThing library for Python",
     "type": "library",
     "adapters": [
@@ -166,7 +166,7 @@
   },
   {
     "model": "webthing-java",
-    "manufacturer": "Mozilla IoT",
+    "manufacturer": "WebThingsIO",
     "description": "WebThing library for Java",
     "type": "library",
     "adapters": [
@@ -177,7 +177,7 @@
   },
   {
     "model": "webthing-rust",
-    "manufacturer": "Mozilla IoT",
+    "manufacturer": "WebThingsIO",
     "description": "WebThing library for Rust",
     "type": "library",
     "adapters": [
